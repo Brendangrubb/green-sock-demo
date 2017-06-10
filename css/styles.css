@@ -38,7 +38,7 @@
 .box {
   margin-top: 350px;
   width: 100px;
-  height: 100px;
+  height: 10vh;
   background-color: rgba(30,215,115,.8);
   border: 8px solid #d71e82;
   border-radius: 15px;
