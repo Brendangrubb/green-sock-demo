@@ -4,11 +4,29 @@
 }
 .col-style {
   padding: 10px;
-  /*margin: 15px;*/
   border: 1px solid black;
   border-radius: 10px;
 }
 
 .output-intro {
-  display: none;
+  visibility: hidden;
+}
+
+.visible {
+  visibility: visible;
+}
+
+.logo {
+  width: 30%;
+  position:absolute;
+}
+
+.logo-two {
+
+  width: 30%;
+  position:absolute;
+
+}
+.text-columns {
+  margin-top: 500px;
 }
