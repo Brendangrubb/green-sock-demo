@@ -2,6 +2,12 @@
   display: flex;
   justify-content: space-around;
 }
+
+img.center {
+  display: flex;
+  justify-content: center;
+}
+
 .col-style {
   padding: 10px;
   border: 1px solid black;
@@ -17,12 +23,15 @@
 }
 
 .logo {
+  margin: 20px;
+  max-width: 300px;
   width: 30%;
   position:absolute;
 }
 
 .logo-two {
-
+  margin: 20px;
+  max-width: 300px;
   width: 30%;
   position:absolute;
 
@@ -36,6 +45,8 @@
 }
 
 .box {
+  margin-left: 5px;
+  margin-right: 5px;
   margin-top: 350px;
   width: 100px;
   height: 10vh;
@@ -43,4 +54,3 @@
   border: 8px solid #d71e82;
   border-radius: 15px;
 }
- 
